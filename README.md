@@ -1,11 +1,11 @@
 Hi there, I'm Eric Mwangi! 👋
 
-I'm a passionate Software Developer who loves building web applications, APIs, and automation tools. I specialize in Python (Django & DRF) and JavaScript (React & HTMX).
+I'm a passionate Software Developer who loves building web applications, APIs, and automation tools. I specialize in Python (Django & DRF) and JavaScript (HTMX).
 🚀 About Me
 
-    🔭 Currently working on job portals, meal planners, and note-taking apps
+    🔭 Currently working on a job portal, e-commerce, and event ticketing application.
 
-    🌱 Learning more about Docker, DevOps, and cloud deployment
+    🌱 Learning more about DevOps, and cloud deployment
 
     💬 Ask me about Django, Laravel, React, and APIs
 
