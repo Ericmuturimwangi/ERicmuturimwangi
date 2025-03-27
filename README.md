@@ -19,11 +19,11 @@ I'm a passionate Software Developer who loves building web applications, APIs, a
 
 🛠 Tech Stack
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericmuturimwangi&layout=compact&theme=radical)
 
 
 
 
 
 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericmuturimwangi&layout=compact&theme=radical)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericmuturimwangi&show_icons=true&theme=radical)
