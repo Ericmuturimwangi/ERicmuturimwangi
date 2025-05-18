@@ -1,42 +1,51 @@
-## 👋 Hi there, I'm Eric Mwangi!
+# Hi there, I'm Eric Mwangi 👋
 
-I'm a passionate **Software Developer** based in Kenya, focused on building robust web applications, APIs, and automation tools. I specialize in **Python** (Django & DRF) and **JavaScript** (HTMX).
+Welcome to my GitHub profile! I'm a passionate software developer dedicated to building efficient and scalable applications. I love working with modern technologies and continuously learning new things.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on:  
-  A **job portal**, **e-commerce platform**, and an **event ticketing application**
-  
-- 🌱 Learning:  
-  DevOps practices and **cloud deployment**
-
-- 💬 Ask me about:  
-  **Django**, **Laravel**, **React**, **HTMX**, and **RESTful APIs**
-
-- ⚡ Fun fact:  
-  I enjoy automating workflows and experimenting with new frameworks
+- 🔭 I’m currently working on **[Your Current Project or Area of Interest]**
+- 🌱 I’m learning **[Technologies you're exploring]**
+- 👯 I’m open to collaborate on open-source projects, especially in **[Your Expertise Areas]**
+- 💬 Ask me about **Python, Django, Laravel, React, and more!**
+- 📫 How to reach me: [muturiwamwanginanyawira@gmail.com](mailto:muturiwamwanginanyawira@gmail.com)
+- ⚡ Fun fact: I enjoy combining coding with real-world solutions!
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Technologies & Tools
 
-- 📧 Email: [muturiwamwanginanyawira@gmail.com](mailto:muturiwamwanginanyawira@gmail.com)  
-- 💻 GitHub: [@Ericmuturimwangi](https://github.com/Ericmuturimwangi)
-
----
-
-## 🛠 Tech Stack
-
-- **Languages**: Python, JavaScript, SQL  
-- **Frameworks**: Django, Django REST Framework, HTMX, React, Laravel  
-- **Tools**: Docker, Postman, AWS, Git, PostgreSQL, MySQL, Linux
+| Backend               | Frontend            | Database           | DevOps & Others     |
+|-----------------------|---------------------|--------------------|---------------------|
+| Python, Django        | React, HTMX         | PostgreSQL, SQLite | Docker, Git, Linux  |
+| Laravel, PHP          | JavaScript, CSS     | MySQL, MariaDB     | cPanel, SSL Certs   |
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Some of My Projects
 
-![Top Languages](https://github-readme-stats-git-master-ericmuturimwangi.vercel.app/api/top-langs/?username=Ericmuturimwangi&layout=compact&theme=radical)
+| Project Name          | Description                          | Link                         |
+|-----------------------|------------------------------------|------------------------------|
+| Recipe Manager        | Django API for managing recipes    | [github.com/Ericmuturimwangi/recipe_manager-api](https://github.com/Ericmuturimwangi/recipe_manager-api) |
+| Job Portal            | Job listing & application platform | [Your repo link]              |
+| Wiland Furniture      | Laravel-based eCommerce site       | [Your repo link]              |
 
-![Eric's GitHub Stats](https://github-readme-stats-git-master-ericmuturimwangi.vercel.app/api?username=Ericmuturimwangi&show_icons=true&theme=radical)
+---
+
+## 📈 GitHub Stats
+
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericmuturimwangi&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Let’s Connect!
+
+- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [Twitter](https://twitter.com/your-twitter)
+- [Personal Website](https://yourwebsite.com)
+
+---
+
+Thanks for stopping by! Feel free to explore my repos and reach out if you want to collaborate 🙌
