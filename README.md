@@ -6,10 +6,17 @@ I'm a passionate **Software Developer** based in Kenya, focused on building robu
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: a job portal, e-commerce platform, and event ticketing app  
-- 🌱 Learning more about DevOps & cloud deployment  
-- 💬 Ask me about: Django, Laravel, React, HTMX, and APIs  
-- ⚡ Fun fact: I enjoy automating workflows and testing new frameworks
+- 🔭 Currently working on:  
+  A **job portal**, **e-commerce platform**, and an **event ticketing application**
+  
+- 🌱 Learning:  
+  DevOps practices and **cloud deployment**
+
+- 💬 Ask me about:  
+  **Django**, **Laravel**, **React**, **HTMX**, and **RESTful APIs**
+
+- ⚡ Fun fact:  
+  I enjoy automating workflows and experimenting with new frameworks
 
 ---
 
@@ -30,6 +37,6 @@ I'm a passionate **Software Developer** based in Kenya, focused on building robu
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericmuturimwangi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-master-ericmuturimwangi.vercel.app/api/top-langs/?username=Ericmuturimwangi&layout=compact&theme=radical)
 
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericmuturimwangi&show_icons=true&theme=radical)
+![Eric's GitHub Stats](https://github-readme-stats-git-master-ericmuturimwangi.vercel.app/api?username=Ericmuturimwangi&show_icons=true&theme=radical)
