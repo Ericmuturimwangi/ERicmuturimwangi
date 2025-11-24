@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer dedicated to b
 
 ## 🚀 About Me
 
--  Currently building: a **Truck Scheduling and Management Application** to streamline logistics and fleet operations.
+-  Currently building: an **Interstate Truck Drivers Platform** to streamline logistics and fleet operations.
 -  **Application Security Specialist** with a passion for building secure and scalable systems.
 -  I’m open to collaborate on open-source projects, especially in **Django, vue, cloud technoogies**
 -  Ask me about **Python, Django, Vue, Application Security and More :-)!**
@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm a passionate software developer dedicated to b
 
 | Project Name          | Description                                    | Link                         |
 |-----------------------|------------------------------------------------|------------------------------|
-| Employee Mgmt System  | Django Project for managing Employees          | [github.com/Ericmuturimwangi/Unit-Management-System](https://github.com/Ericmuturimwangi/Unit-Management-System) |
+| Employee & Ops Platf  | Personnel and operations management            | [github.com/Ericmuturimwangi/Unit-Management-System](https://github.com/Ericmuturimwangi/Unit-Management-System) |
 | Job Portal            | Job listing & application platform             | [github.com/Ericmuturimwangi/Job_portal_1](https://github.com/Ericmuturimwangi/Job_portal_1)              |
-| School Management     | Django backend for managing a school           | [github.com/Ericmuturimwangi/sos](https://github.com/Ericmuturimwangi/sos)   |
+| SmartCampus Platform  | Multi-tenant academic operations platform      | [github.com/Ericmuturimwangi/sos](https://github.com/Ericmuturimwangi/sos)   |
 |Interstate-TruckDrivers| Takes trip details as I/Os and  draws ELD logs | [github.com/Ericmuturimwangi/Interstate-Truck-Drivers](https://github.com/Ericmuturimwangi/Interstate-Truck-Drivers)|
                         
 
